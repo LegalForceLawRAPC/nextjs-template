@@ -1,4 +1,4 @@
-#Legalforce Next.js + Tailwind CSS + TypeScript Template
+# Legalforce Next.js + Tailwind CSS + TypeScript Template
 
 <div align="center">
   <h2>🔋 ts-nextjs-tailwind-template</h2>
